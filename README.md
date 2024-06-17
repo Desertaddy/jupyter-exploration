@@ -15,7 +15,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/jupyter-exploration.git
+   git clone https://github.com/Desertaddy/jupyter-exploration.git
    ```
 2. Navigate to the project directory:
    ```bash
